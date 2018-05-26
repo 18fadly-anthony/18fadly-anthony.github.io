@@ -1,4 +1,6 @@
-# Anthony's github page 
+# Anthony's github page
+
+## [Senior Project](https://18fadly-anthony.github.io/senior-project/)
 
 ## [Exploring Computer Science](https://github.com/18fadly-anthony/ECS)
 
