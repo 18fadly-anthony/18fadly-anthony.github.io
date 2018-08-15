@@ -2,7 +2,7 @@
 
 ## [Senior Project](https://18fadly-anthony.github.io/senior-project/)
 
-## [Web Development](https://ecs-wemxbbqlnh.now.sh/)[Source Code](https://github.com/18fadly-anthony/ECS)
+## [Web Development](https://ecs-wemxbbqlnh.now.sh/) [(Source Code)](https://github.com/18fadly-anthony/ECS)
 
 - All my work from my Exploring Computer Science class
 
