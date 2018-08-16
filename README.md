@@ -1,11 +1,14 @@
 # Anthony Fadly
 
+## Skills
+
+Python2/3, C#, HTML, JS, CSS, p5js, jQuery, Ajax, Node
+
 ## Contact
 - Email: [18fadly.anthony@gmail.com](mailto:18fadly.anthony@gmail.com)
 - Secondary Email: [anthony_@keemail.me](mailto:anthony_@keemail.me)
 - Github: [18fadly-anthony](https://github.com/18fadly-anthony)
 - Instagram: [@anchovy_draws](https://www.instagram.com/anchovy_draws/)
-
 
 ## Projects
 
