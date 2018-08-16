@@ -1,5 +1,7 @@
 # Anthony Fadly
 
+## [Contact](contact.md)
+
 ## Projects
 
 ### [Senior Project](https://18fadly-anthony.github.io/senior-project/)
