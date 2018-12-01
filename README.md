@@ -2,7 +2,17 @@
 
 ## Skills
 
-Python2/3, C#, HTML, JS, CSS, p5js, jQuery, Ajax, Node
+### Programming Languages
+
+Bash, Python2/3, C#, HTML, JS, CSS, p5js, jQuery, Ajax, NodeJS
+
+### Software
+
+Microsoft Windows, macOS, GNU/Linux, Microsoft Office (Word, Powerpoint, Excel)
+
+### CyberSecurity
+
+Wireshark, Metasploit Framework, Aircrack-ng, Cain and Abel Password Recovery, Netcat, OpenSSH, Burp Suite, Nikto
 
 ## Contact
 - Email: [18fadly.anthony@gmail.com](mailto:18fadly.anthony@gmail.com)
