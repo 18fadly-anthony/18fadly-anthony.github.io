@@ -18,6 +18,5 @@ Wireshark, Metasploit Framework, Aircrack-ng, Cain and Abel Password Recovery, N
 - Email: [18fadly.anthony@gmail.com](mailto:18fadly.anthony@gmail.com)
 - Secondary Email: [anthony_@keemail.me](mailto:anthony_@keemail.me)
 - Github: [18fadly-anthony](https://github.com/18fadly-anthony)
-- Instagram: [@anchovy_draws](https://www.instagram.com/anchovy_draws/)
 
 ## [Senior Project](https://18fadly-anthony.github.io/senior-project/)
