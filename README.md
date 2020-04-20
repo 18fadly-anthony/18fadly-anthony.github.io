@@ -13,6 +13,13 @@ Microsoft Windows, macOS, GNU/Linux, Microsoft Office (Word, Powerpoint, Excel)
 Wireshark, Metasploit Framework, Aircrack-ng, Cain and Abel Password Recovery, Netcat, OpenSSH, Burp Suite, Nikto
 
 ## Contact
+
 - Email: [18fadly.anthony@gmail.com](mailto:18fadly.anthony@gmail.com)
 - Secondary Email: [anthony_@keemail.me](mailto:anthony_@keemail.me)
 - Github: [18fadly-anthony](https://github.com/18fadly-anthony)
+
+## Projects
+
+### [backr-py](https://github.com/18fadly-anthony/backr-py) - a simple backup tool
+
+### [backr-gui](https://github.com/18fadly-anthony/backr-gui) - a gui for backr-py
