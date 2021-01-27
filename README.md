@@ -20,6 +20,9 @@ Wireshark, Metasploit Framework, Aircrack-ng, Cain and Abel Password Recovery, N
 
 ## Projects
 
+### [spaceship-traitors](https://github.com/18fadly-anthony/spaceship-traitors) - an Among Us spinoff game played via a Telegram bot
+
 ### [backr-py](https://github.com/18fadly-anthony/backr-py) - a simple backup tool
 
 ### [backr-gui](https://github.com/18fadly-anthony/backr-gui) - a gui for backr-py
+
