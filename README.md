@@ -2,11 +2,17 @@
 
 ## Projects
 
-### [Rookie Package Manager](https://github.com/18fadly-anthony/rookie) - A [Nix](https://nixos.org) functional package manager for scripts and [appimages](https://appimage.org/)
+### [Rookie Package Manager](https://github.com/18fadly-anthony/rookie)
 
-### [spaceship-traitors](https://github.com/18fadly-anthony/spaceship-traitors) - Among Us spinoff game played via a Telegram bot
+- A [Nix](https://nixos.org) functional package manager for scripts and [appimages](https://appimage.org/)
 
-### [backr-py](https://github.com/18fadly-anthony/backr-py) - simple backup tool
+### [spaceship-traitors](https://github.com/18fadly-anthony/spaceship-traitors)
+
+- Among Us spinoff game played via a Telegram bot
+
+### [backr-py](https://github.com/18fadly-anthony/backr-py)
+
+- simple backup tool
 
 ## Programming Languages
 
