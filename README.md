@@ -4,7 +4,7 @@
 
 ### [Rookie Package Manager](https://github.com/18fadly-anthony/rookie)
 
-- A [Nix](https://nixos.org) functional package manager for scripts and [appimages](https://appimage.org/)
+- A [Nix](https://nixos.org)-inpired functional package manager for scripts and [appimages](https://appimage.org/)
 
 ### [spaceship-traitors](https://github.com/18fadly-anthony/spaceship-traitors)
 
