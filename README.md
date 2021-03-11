@@ -10,9 +10,9 @@
 
 - Among Us spinoff game played via a Telegram bot
 
-### [backr-py](https://github.com/18fadly-anthony/backr-py)
+### [backr2](https://github.com/18fadly-anthony/backr2)
 
-- simple backup tool
+- Backup script with delta compression and garbage collection
 
 ## Programming Languages
 
